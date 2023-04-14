@@ -199,6 +199,12 @@
 
 <br />
 
+### 📋 메뉴 구조도
+
+![메뉴 구조도](https://user-images.githubusercontent.com/50830078/232025666-37a48c66-037f-4a5e-bfaf-1de90f5c3af5.png)
+
+<br />
+
 ### 🎨 디자인 무드보드
 
 ![로고 및 색상](https://user-images.githubusercontent.com/50830078/231946403-52ddc1df-0b09-4af4-a1d6-3452b6b1a947.png)
