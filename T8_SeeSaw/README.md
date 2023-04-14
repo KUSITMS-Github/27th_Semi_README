@@ -335,7 +335,7 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
       ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
       ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
-### **기술 스택 선정 이유**
+### **🐾 기술 스택 선정 이유**
 - 유저 입장에 편한 회고가 가능하도록 하기 위해 접근성을 높이고자 했고, 이를 위해 언제나 간편하게 접근할 수 있는 모바일 앱을 선정하였습니다. 일반적인 PC 웹이나 모바일 웹에서는 구현하기 힘든 푸시 알림 기능, 그리고 스마트폰 내에 기본으로 제공되는 건강 API가 사용 가능하다는 차별성이 있습니다.
 
 
