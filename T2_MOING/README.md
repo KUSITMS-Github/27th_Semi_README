@@ -24,7 +24,7 @@
 | 기획 | 강은영 | 서비스 기획, 비즈니스 모델 설계 |
 | 기획 | 김윤진 | 서비스 기획, 비즈니스 모델 설계 |
 | 기획 | 이채영 | 서비스 기획 리드, 비즈니스 모델 설계 |
-| 디자인 | 이채연 | 서비스 디자인, |
+| 디자인 | 이채연 | 서비스 및 UXUI 디자인|
 | 개발 | [정승연](https://github.com/seungyeonnnnnni) | 프로젝트 매니징, Server 개발 리드 |
 | 개발 | [김민수](https://github.com/minsu20) | Server 개발 |
 | 개발 | [곽승엽](https://github.com/yeopseung) | Android 개발 |
