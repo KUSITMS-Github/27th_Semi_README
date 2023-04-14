@@ -8,8 +8,9 @@
 
 ![_](https://user-images.githubusercontent.com/78543382/232014929-043ca259-d789-4195-865a-0170f115ab64.jpeg)
 
-> **‘펫모리’** 는 pet과 memory라는 두 단어를 합친 서비스 명으로, 반려견과 함께한 순간을 오랫동안 기억하기 위해 기획한 서비스입니다. **펫모리**는 반려견과 이별한 이후에도 그들과의 추억을 간직할 수 있도록 순간을 기억으로 남기고, 그 기억들을 언제든지 추억할 수 있도록 하는 서비스를 제공합니다.
-> 
+**📸아이템 이미지**
+
+>반려견의 활기찬 이미지와 오렌지 톤 보정, 전체적으로 밝고 따뜻한 무드를 활용해 유저들이 해당 서비스를 이용하면서 **반려견과 따뜻했던 추억을 회상하며 긍정적인 감정**을 느낄 수 있는 아이템 이미지를 제작했습니다.
 
 ## 💻 팀명 : 삼전(SAMSION)
 
@@ -153,15 +154,16 @@
 
 >‘**펫모리’서비스**는 유저들이 반려견과의 추억을 간직하고 회상할 수 있는 서비스로, **`간직/회상, 반려견, 사랑`** 이라는 키워드를 가지고 bi를 도출했습니다. **반려견과 하트**를 합쳐 하나의 틀을 만들고 추억을 간직하고 시간이 지나 회상할 수 있는 매개체인 **타임캡슐**을 결합해 서비스 Symbol을 도출했습니다. 타이포는 ‘P’에 초점을 두고 반려견을 형상화하여 제작했으며 과하지 않은 둥근 쉐이프를 타이포를 제작해 가독성을 높였습니다.
 
-![밋업 bi_대지 1 사본](https://user-images.githubusercontent.com/78543382/232016245-c2f94cb5-0ff5-4e8c-be95-85ba69d07518.jpg) ![밋업 bi-02](https://user-images.githubusercontent.com/78543382/232016243-9a1f399e-fc75-41cd-8cdc-18bb8cb1e943.jpg)
-![밋업 bi-03](https://user-images.githubusercontent.com/78543382/232016240-d8aade23-5824-4080-9ec1-44f38e3c76b1.jpg)
-![밋업 bi-04](https://user-images.githubusercontent.com/78543382/232016231-ec37f8fd-219e-4f7f-a0aa-fc9789b866dc.jpg)
+<div align="center">
+  <div style="display: flex;">
+    <img src="https://user-images.githubusercontent.com/78543382/232016245-c2f94cb5-0ff5-4e8c-be95-85ba69d07518.jpg" width=225 height=225 />
+    <img src="https://user-images.githubusercontent.com/78543382/232016243-9a1f399e-fc75-41cd-8cdc-18bb8cb1e943.jpg" width=225 height=225 />
+    <img src="https://user-images.githubusercontent.com/78543382/232016240-d8aade23-5824-4080-9ec1-44f38e3c76b1.jpg" width=225 height=225 />
+    <img src="https://user-images.githubusercontent.com/78543382/232016231-ec37f8fd-219e-4f7f-a0aa-fc9789b866dc.jpg" width=225 height=225 />
+  </div>
+</div>
 
-**📸아이템 이미지**
-
->반려견의 활기찬 이미지와 오렌지 톤 보정, 전체적으로 밝고 따뜻한 무드를 활용해 유저들이 해당 서비스를 이용하면서 **반려견과 따뜻했던 추억을 회상하며 긍정적인 감정**을 느낄 수 있는 아이템 이미지를 제작했습니다.
-
-![_](https://user-images.githubusercontent.com/78543382/232014929-043ca259-d789-4195-865a-0170f115ab64.jpeg)
+<br/>
 
 ## 💻 기술 스택
 <details>
