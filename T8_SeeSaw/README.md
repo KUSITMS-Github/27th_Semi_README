@@ -95,9 +95,13 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 처음 이 단어를 사용한 Oates는 워커홀릭이 알코올 중독과 성격이 매우 흡사하며 끊임없이 일하려는 내적 충동과 일에 집착하는 습성으로 건강, 대인관계, 행복감, 일상생활 영위에 심각한 문제를 가진 사람이라고 묘사했습니다. 
 
+<br>
+
 😫 **한국을 대표하는 키워드, ‘워커홀릭’** 
 
 몇 년 전 코트라에서 발표한 아세안 마케팅 지표에 따르면, 한국을 대표하는 이미지 1위가 ‘워커홀릭 · 일중독’이었다고 합니다. 사회 · 경제의 급속 성장으로부터 남들보다 더 윤택한 삶을 살기 위해서는 경쟁에서 뒤처지지 않아야 한다는 사고가 생겨난 것입니다. 성과만이 강조되는 현대 사회에 사는 현대인들은 개개인의 삶에 집중하기보다는 사회에 의해 정해진 ‘성공’이라는 기준에 도달하고자 끊임없이 바쁘게 살아갑니다. 이때 현대인의 삶은 주체성을 상실하게 되고 그 자리는 무력감으로 채워집니다. 
+
+<br>
 
 🧐 **워커홀릭, 순기능은 없을까?**
 
@@ -113,6 +117,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 그런데 성취지향적 일중독자는 직무 및 삶에 대한 만족도, 신체, 심리적 건강과 긍정적 관련을 가진다고 합니다. 저희는 데스크 리서치를 통해 일에 대한 강박이나 완벽주의 때문에 뚜렷한 목표 없이 일을 하는 사람들뿐만 아니라 **성취를 지향하기 때문에 열정적으로 일에 몰입하는 사람들**도 있다는 것을 파악했습니다.
 
+<br>
+
 ❓ **워커홀릭(일중독)의 원인**
 
 1. **부적응적 평가 염려**
@@ -121,6 +127,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 2. **긍정적 성취 욕구**
     - 나의 활동에 대한 스스로의 기준이 높아서 이를 충족시키기 위해
     - 나의 활동에 대한 주변인의 기준이 높아서 이를 충족시키기 위해
+
+<br>
 
 📍**워라밸, 시간의 균형을 넘어 가치의 균형으로**
 
@@ -135,6 +143,8 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 - 에너지 잔량 확인 기능: 프로젝트와 삶의 정량적 균형을 맞출 수 있게 함 (시간의 균형)
 - 로드맵 설정 기능 · 프로젝트 회고 기능: 프로젝트를 통한 나의 성장을 기록하고 이로부터 삶에서 갖는 가치를 발견할 수 있게 함 (가치의 균형)
 
+<br>
+
 💡 **해결법에 대한 근거**
 
 1️⃣ **프로젝트 회고**
@@ -145,6 +155,8 @@ A. 회고할 시간이 없어서(37.8%), 귀찮아서(37%)
 
 → 접근성이 높은 모바일 앱 서비스에서 회고 템플릿을 제공하여 쉽고 빠르게 회고를 진행할 수 있도록 함
 
+<br>
+
 2️⃣ **장기적 로드맵 설정**
 
 Q. 장기적 로드맵을 그리지 않는 이유는 무엇인가요?
@@ -153,6 +165,8 @@ A. 장기적 로드맵의 필요성을 모르겠어서(55%)
 
 → ‘청년세대들은 자신의 발전에 일의 의미를 두고 있으나, 그것이 자신의 꿈, 사명과는 아직 거리가 있다고 볼 수 있다.’는  문제를 해결하기 위해 장기적 로드맵 서비스를 제공함으로써 장기적 로드맵 설정의 필요성을 인식하고, 일을 통한 경력 발달을 나의 성장과 연관짓도록 함
 
+<br>
+
 3️⃣ **목표 상기**
 
 Q. 프로젝트를 진행하며 목표를 상기함으로써 얻을 수 있는 점은 무엇이었나요?
@@ -160,6 +174,8 @@ Q. 프로젝트를 진행하며 목표를 상기함으로써 얻을 수 있는 �
 A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 → 프로젝트 진행 중에 목적과 방향을 명확히 인식하도록 하여 해당 효과들을 얻을 수 있도록 함
+
+<br>
 
 4️⃣ **건강 데이터를 통한 신체적 상태 인식**
 
@@ -290,7 +306,7 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 <br>
 
-## 💻 Technologies
+## :computer: Technology
 - iOS
     - ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
       ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
@@ -299,18 +315,18 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
       ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-      ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring_Security&logoColor=white)
+      ![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=Spring%20Security&logoColor=white)
       ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
       ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
       ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
     - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
       ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-      ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=Amazon_RDS&logoColor=white)
-      ![ElastiCache](https://img.shields.io/badge/AWS_ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
+      ![RDS](https://img.shields.io/badge/AWS%20RDS-527FFF?style=for-the-badge&logo=Amazon%20RDS&logoColor=white)
+      ![ElastiCache](https://img.shields.io/badge/AWS%20ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
       ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-      ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=Amazon_EC2&logoColor=white)
+      ![EC2](https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge&logo=Amazon%20EC2&logoColor=white)
       ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
       ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 - Co-working Tool
