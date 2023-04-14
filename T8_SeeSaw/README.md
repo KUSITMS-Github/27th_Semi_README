@@ -1,6 +1,6 @@
 # ✳️ SeeSaw, 시소 ✳️
 
-![아이템 소개 이미지-01](https://user-images.githubusercontent.com/117328806/232042967-d24ef425-8630-4a9a-89d0-bbdb50603c01.png)
+<img src="https://user-images.githubusercontent.com/117328806/232042967-d24ef425-8630-4a9a-89d0-bbdb50603c01.png" width=800>
 
 ### **일과 삶 사이의 균형 찾기, SeeSaw**
 
@@ -34,13 +34,11 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ## 🔎 목적 및 필요성
 
-> **목적**
-> 
+### **목적** 
 
-**자기 자신에 대한 이해**를 바탕으로 **일이 삶에서 갖는 가치를 발견**할 수 있도록 하여 **‘일과 삶의 균형’**을 찾아주고자 합니다. ‘시소’는 일에 쫓겨 정신없이 바쁜 생활을 보내는 ‘워커홀릭’이 **자신의 일을 즐기는 ‘워크마니아**’가 될 수 있도록 돕는 서비스입니다. 
+**자기 자신에 대한 이해**를 바탕으로 **일이 삶에서 갖는 가치를 발견**할 수 있도록 하여 **‘일과 삶의 균형’** 을 찾아주고자 합니다. ‘시소’는 일에 쫓겨 정신없이 바쁜 생활을 보내는 ‘워커홀릭’이 **자신의 일을 즐기는 ‘워크마니아**’가 될 수 있도록 돕는 서비스입니다. 
 
-> **필요성**
-> 
+### **필요성**
 
 📑 **유저 리서치를 통한 프로젝트 수행 양상 파악**
 
@@ -59,7 +57,7 @@ SeeSaw(시소)는 프로젝트를 되돌아보면서 본인의 성장 포인트�
 
 ![그래프-02](https://user-images.githubusercontent.com/117328806/232039955-847bbcc7-b067-4362-88ec-1774b417e13e.png)
 
-### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다. **
+### **따라서, 일에 시간과 노력을 극단적으로 투자하며 일하지 않으면 안 된다는 강한 내부적 압박감을 느끼고 있는 2030 워커홀릭을 위한 플랫폼이 필요하다고 느꼈습니다.**
 
 <br>
 
@@ -171,6 +169,8 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 → 정량적으로 제공되는 건강 데이터를 통해 신체적 에너지를 점검하도록 하여 에너지를 균형 있게 분배할 수 있도록 함
 
+<br>
+
 ## 👥 서비스 타켓층 정의
 
 
@@ -184,8 +184,9 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 ### 핵심 기능 overview
 
-| 🛣️ 로드맵 설정 기능 | ’청년세대들은 자신의 발전에 일의 의미를 두고 있으나, 그것이 자신의 꿈, 사명과는 아직 거리가 있다고 볼 수 있다.’ <br> : 유저가 삶에 대한 목표를 정의하고, 이에 맞춰 자신만의 로드맵을 설정합니다. 현재 자신이 로드맵 중 어디까지 왔는지 확인할 수 있습니다. |
+| 기능 | 설명 |
 | --- | --- |
+| 🛣️ 로드맵 설정 기능 | ’청년세대들은 자신의 발전에 일의 의미를 두고 있으나, 그것이 자신의 꿈, 사명과는 아직 거리가 있다고 볼 수 있다.’ <br> : 유저가 삶에 대한 목표를 정의하고, 이에 맞춰 자신만의 로드맵을 설정합니다. 현재 자신이 로드맵 중 어디까지 왔는지 확인할 수 있습니다. |
 | ⏪ 프로젝트 회고 기능 | ‘프로젝트가 나의 삶과 연결될 수 있도록’ <br> : 프로젝트 시작 전 - 진행 중 - 마무리 단계에서 프로젝트를 ‘삶’과 연결지어 회고할 수 있도록 합니다. 또한, 프로젝트를 진행하며 느끼는 다양한 생각들을 쉽게 남겨둘 수 있습니다. |
 | ✅ 에너지 잔량 확인 기능 | ‘프로젝트와 삶의 에너지 균형을 맞추다’ <br> : 수면시간, 칼로리와 같은 객관적인 데이터와 자신이 설정한 루틴 2가지의 실행 여부를 바탕으로 ‘나만의 배터리’를 측정합니다. |
 
@@ -193,7 +194,7 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 
 ### 1️⃣ 로드맵 설정 기능 주요 point
 
-> 해당 기능을 통해 유저는 스스로 정의한 목표 아래 자신만의 템포에 맞춰 ****삶을 살아갈 수 있도록 합니다.
+> 해당 기능을 통해 유저는 스스로 정의한 목표 아래 자신만의 템포에 맞춰 삶을 살아갈 수 있도록 합니다.
 > 
 - 로드맵 설정
     - 유저는 자신의 삶의 목표에 맞게 로드맵을 설정할 수 있다.
@@ -234,6 +235,8 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
     - 사용자가 자신의 삶의 균형을 찾는 데 필요한 요소(ex.산책가기, 책 읽기 등)를 최대 2가지까지 설정할 수 있다.
     - 해당 요소를 실천한 경우 유저의 에너지량을 나타내는 ‘나만의 배터리’가 ‘급속 충전’이 된다.
 
+<br>
+
 ## 🧩 비즈니스 모델 설계
 
 > ‘시소’는 앱은 무료로 제공되며 프리미엄 서비스를 구독할 시 부가기능을 이용할 수 있습니다. 
@@ -243,13 +246,11 @@ A. 동기부여, 성취감, 일의 효율, 올바른 방향성
 |  | 관련 파트너1 | 관련 파트너2 | 내용 |
 | --- | --- | --- | --- |
 | STEP 1 | 시소 | 기업 | 광고 제공 ⇔ 광고료 |
-| STEP 2 | 시소 | 유저 | 프리미엄 기능 제공  ⇔  구독료
-Option1. 광고제거
-Option2. 서비스 내 통계 제공
-Option3. 고도화 회고 템플릿 제공
-Option4. 앱 스킨 디자인 템플릿 제공  |
+| STEP 2 | 시소 | 유저 | 프리미엄 기능 제공  ⇔  구독료 <br> Option1. 광고제거 <br> Option2. 서비스 내 통계 제공 <br> Option3. 고도화 회고 템플릿 제공 <br> Option4. 앱 스킨 디자인 템플릿 제공  |
 
-아이템의 특성에 따라 관련 파트너 수 달라질 수 있습니다.
+아이템의 특성에 따라 관련 파트너 수는 달라질 수 있습니다.
+
+<br>
 
 ## 🎁 가치 제안
 
@@ -297,27 +298,26 @@ Option4. 앱 스킨 디자인 템플릿 제공  |
 - Server
     - ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
     - ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-      <img src=“https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white”>
-      <img src=“https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=Spring Security&logoColor=white”>
+      ![Springboot](https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+      ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=Spring_Security&logoColor=white)
       ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
       ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
       ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
       ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
     - ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
       ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
-      <img src=“https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=Amazon RDS&logoColor=white”>
-      <img src=“https://img.shields.io/badge/AWS ElastiCache-527FFF?style=for-the-badge&logo=Amazon”>
+      ![RDS](https://img.shields.io/badge/AWS_RDS-527FFF?style=for-the-badge&logo=Amazon_RDS&logoColor=white)
+      ![ElastiCache](https://img.shields.io/badge/AWS_ElastiCache-527FFF?style=for-the-badge&logo=Amazon)
       ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
     - ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-      <img src=“https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white”>
+      ![EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=Amazon_EC2&logoColor=white)
       ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
       ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 - Co-working Tool
     - ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-    - ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-    - ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-    - ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-
+      ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+      ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+      ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ### **기술 스택 선정 이유**
 - 유저 입장에 편한 회고가 가능하도록 하기 위해 접근성을 높이고자 했고, 이를 위해 언제나 간편하게 접근할 수 있는 모바일 앱을 선정하였습니다. 일반적인 PC 웹이나 모바일 웹에서는 구현하기 힘든 푸시 알림 기능, 그리고 스마트폰 내에 기본으로 제공되는 건강 API가 사용 가능하다는 차별성이 있습니다.
@@ -431,4 +431,4 @@ Java
 
 ## 🐬 Git Flow
 
-<img src="https://www.gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg">
+<img src="https://www.gitkraken.com/wp-content/uploads/2021/03/git-flow-4.svg" height=700 >
