@@ -4,9 +4,11 @@
 
 ---
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/6f7f356e-5e7d-437f-9a65-00d431ec7ee2/Untitled.png)
+![Untitled1](https://user-images.githubusercontent.com/100370200/232049729-6754fadc-bfe0-4b25-acd3-16c6b95fb019.png)
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/df08ac0f-b421-4ade-9a0f-8475391045a1/Untitled.png)
+![KakaoTalk_20230414_211444722](https://user-images.githubusercontent.com/100370200/232049915-bbb00d5c-ff3c-4f84-9d64-1f9bdec07ec6.png)
+
+
 
 ### **📑 서비스 소개**
 
@@ -41,7 +43,8 @@
 
 - 유저리서치 (14:00 기준 79명 참)
     
-    ![스크린샷 2023-04-14 오후 2.32.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/5af00d36-3534-4615-96b7-54d066edabd2/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-14_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.32.57.png)
+<img width="582" alt="스크린샷 2023-04-14 오후 2 32 57" src="https://user-images.githubusercontent.com/100370200/232050020-0939811d-b3c4-48c3-86c1-3da01aab717e.png">
+
     
     - 2-30대를 타겟으로 잡은 유저 리서치 결과
         
@@ -54,8 +57,9 @@
     
     → 각각의 참여자들이 사용하는 기존 방식이 장소 선정에 어려움을 주고 있으며, 새로운 서비스의 필요성을 뒷받침하는 근거로 사용될 수 있음. 
     
+<img width="560" alt="스크린샷 2023-04-14 오후 2 33 57" src="https://user-images.githubusercontent.com/100370200/232050254-b408673c-ba1f-40c1-8492-897797525ceb.png">
 
-![스크린샷 2023-04-14 오후 2.34.07.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/4a475141-05ae-4760-9415-df1083cb1af6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-14_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.34.07.png)
+
 
 - 장소 선정에 있어서, 광고성 컨텐츠로 장소 정보의 질적인 문제(장소 정보의 객관성 문제)가 40.6%으로 가장 문제로 대두되었으며, 새로운 장소에 대한 정보 부족이 37.5%, 장소 수집에 대한 어려움이 12.5%로 나타났음.
 
@@ -64,8 +68,10 @@
         더욱이, 응답자의 58.5 %는 네이버 지도를 통해, 장소에 대한 정보를 얻고 있었지만, 해당 매체에 대해 73.8%   
 
          의 사람들이 정보 검색에 대해 어려움을 겪고 있다고 응답함. 
+         
+         <img width="668" alt="스크린샷 2023-04-14 오후 2 34 07" src="https://user-images.githubusercontent.com/100370200/232050395-129fc490-f60c-4efe-9e83-23072ad52fc1.png">
 
-![스크린샷 2023-04-14 오후 2.34.24.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/86e0e826-5f4a-40cf-8d6d-7bce773c0d0f/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-14_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.34.24.png)
+
 
 - 장소를 검색할 때 활용했던 기존의 매체를 활용했을 때, 45.3%의 사람들이 세분화된 필터를 통해 장소 검색의 기능을 원했으며, 31.3%의 사람들이 사용자의 취향을 반영한 장소 추천 서비스 기능을 선호한다고 응답함.
 
@@ -73,7 +79,8 @@
 
 **→ 기존의 정보 매체가 필터 기능을 보유하고 있으나, 필터기능으로서의 효용성이 떨어진다고 볼 수 있음. 이는 세분화된 필터를 보유한 “라이킷”이 다른 서비스와의 차별성으로도 분석 가능함.** 
 
-![스크린샷 2023-04-14 오후 2.34.31.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/593657e4-cfe7-4492-a33e-a1af08185941/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-14_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.34.31.png)
+<img width="669" alt="스크린샷 2023-04-14 오후 2 34 31" src="https://user-images.githubusercontent.com/100370200/232050514-fd1fc889-2df3-4c5c-a1e4-f9edd0fd351b.png">
+
 
 - 96.3%의 참여자가 취향에 맞는 장소를 추천해주는 서비스를 사용할 의향이 있다고 답함
 
@@ -358,5 +365,7 @@ REST API 통신을 위해 빠른 성능과 간단한 구현을 자랑하는 Retr
 
 
 ### 📑 소프트웨어 아키텍쳐
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a8bc0b5-056c-4e70-8ee5-bcb2ea8b3249/Untitled.png)
+<img width="951" alt="KakaoTalk_20230414_173738822" src="https://user-images.githubusercontent.com/100370200/232049796-1df81377-3e85-4c9e-bd84-6ac4e2dc8818.png">
+
+
 
