@@ -174,7 +174,7 @@
 
 - 전체 앱이 컴포넌트 단위로 구성되므로 **재사용성** 이 높기 때문에 유지보수에 효율적입니다.
 - 전역으로 컴포넌트를 사용하기 위해 CSR 방식의 React를 선정했습니다.
-- virtual DOM을 활용한 빠른 렌더링이 가능하므로 이미지와 상호작용이 저희 서비스에 적합합니다.
+- virtual DOM을 활용한 빠른 렌더링이 가능한 장점이 있습니다.
 
 ---
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/>
@@ -184,20 +184,21 @@
 
 ---
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>  
+
 - 서버상태를 프론트엔드 전역상태와 분리하고 체계적으로 관리하기 위해 React Query를 선정했습니다.
-- 캐싱기능을 통해 불필요한 API 호출을 줄이고 프론트엔드에서 처리해야 했던 loading과 error 상태들을 쉽게 처리 할 수 있는 장점이 있습니다.
+- 캐싱기능을 통해 불필요한 API 호출을 줄이고 state로 처리해야 했던 loading과 error 상태들을 쉽게 처리 할 수 있는 장점이 있습니다.
 
 ---
 <img src="https://img.shields.io/badge/Recoil-0075EB?style=flat-square&logo=Recoil&logoColor=black"/>
 
 - 프론트엔드 전역상태관리를 위해 러닝커브가 비교적 낮은 Recoil을 선택했습니다.
-- React Query를 도입해 서버상태를 따로 관리하기 때문에 러닝커브가 높은 Redux 대신 Recoil을 선택했습니다.
+- React Query를 도입해 서버상태를 따로 관리하기 때문에 비교적 가벼운 전역상태 관리인 Recoil을 선택했습니다.
 
 ---
 <img src="https://img.shields.io/badge/styledcomponents-DB7093?style=flat-square&logo=styledcomponents&logoColor=black"/>
 
 - CSS를 별도의 파일로 두지 않고 하나의 모듈로 관리하기 위해 **CSS-in-JS** 방식을 채택했습니다.
-- CSR로 구축한 앱이기 때문에 @emotion/styled와 styled-components 간의 차이가 크지 않다고 판단했고, 팀원들에게 익숙한 styled-components를 선정했습니다.
+- 컴포넌트의 재사용을 위해 Styled-components를 선정했습니다.
 - 컴포넌트들의 공통된 CSS를 하나의 **Theme**으로 관리하면 유지보수가 용이해지는 장점이 있습니다.
 
 ---
