@@ -219,32 +219,48 @@
 > **Android Studio (kotlin)**
 > 
 
-![image_processing20200406-12954-2liqgw](https://user-images.githubusercontent.com/100370200/232179751-fa4bc891-7215-4f57-9aee-a3b655369935.gif)
-
+![](https://github.com/kusitms-com/27th_Semi_README/blob/main/T6_Hot6ix/android.gif)
 
 - **Retrofit2**
-REST API 통신을 위해 빠른 성능과 간단한 구현을 자랑하는 Retrofit을 사용했습니다.
+
+    REST API 통신을 위해 빠른 성능과 간단한 구현을 자랑하는 Retrofit을 사용했습니다.
 - **Jetpack**
-쉽고 빠른 화면 구성을 위해 Jetpack 라이브러리를 사용했습니다.
+
+    쉽고 빠른 화면 구성을 위해 Jetpack 라이브러리를 사용했습니다.
 - **Dagger-Hilt**
     
     인스턴스 생명주기 관리를 위해 Dagger보다 러닝커브가 훨씬 낮고, 초기 DI 환경 구축 비용을 절감할 수 있으며 안드로이드 앱에 최적화되어 있습니다.
     
 - **Coroutines** 
-메모리 누수 및 블라킹 방지 등 효율적인 Context Switching을 위해 Coroutine을 사용합니다.
+
+    메모리 누수 및 블라킹 방지 등 효율적인 Context Switching을 위해 Coroutine을 사용합니다.
 
 **Backend**
 
 > **Springboot**
 > 
 
-![image_processing20200604-14649-1dzpdk2.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/3bc67534-531f-43ee-a40a-1e723b38864e/image_processing20200604-14649-1dzpdk2.gif)
+![](https://github.com/kusitms-com/27th_Semi_README/blob/main/T6_Hot6ix/spring.gif)
 
-- AWS S3
-- Redis
-- AWS RDS
-- Mysql
-- JPA
+- **Redis**
+    
+    주 서버에 장애가 발생하는 경우 요청이 여러 서버로 분산될 수 있으므로 향상된 읽기 성능과 더 빠른 복구 기능을 제공할 수 있습니다.
+    
+- **AWS S3**
+    
+    사용자가 인스턴스를 완전히 제어할 수 있으며 보안 및 네트워크 구성, 스토리지 관리에 효과적입니다.
+    
+- **AWS RDS**
+    
+    간편한 복제를 통해 프로덕션 워크로드의 가용성과 신뢰성을 높일 수 있습니다.
+    
+- **Mysql**
+    
+    오픈 소스 라이센스를 따르기 때문에 무료로 사용 가능하고 대용량 데이터 세트를 빠르고 효율적으로 처리할 수 있습니다.
+    
+- **JPA**
+    
+    SQL 중심적인 개발에서 객체중심적인 개발이 가능하며 유지보수 및 리팩토링에 유리합니다.
 
 ### 📑 API 명세
 
