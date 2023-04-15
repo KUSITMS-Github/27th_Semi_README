@@ -6,9 +6,6 @@
 
 ![Untitled1](https://user-images.githubusercontent.com/100370200/232049729-6754fadc-bfe0-4b25-acd3-16c6b95fb019.png)
 
-![KakaoTalk_20230414_211444722](https://user-images.githubusercontent.com/100370200/232049915-bbb00d5c-ff3c-4f84-9d64-1f9bdec07ec6.png)
-
-
 
 ### **📑 서비스 소개**
 
@@ -51,13 +48,14 @@
         → 다소 고른 분포를 나타내고 있긴 하나, 30대 초반이 가장 많은 수치를 나타내고 있음. 
         
 
-![스크린샷 2023-04-14 오후 2.33.57.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/12dff607-8494-4b08-bba4-c68cf9290ab6/%E1%84%89%E1%85%B3%E1%84%8F%E1%85%B3%E1%84%85%E1%85%B5%E1%86%AB%E1%84%89%E1%85%A3%E1%86%BA_2023-04-14_%E1%84%8B%E1%85%A9%E1%84%92%E1%85%AE_2.33.57.png)
+<img width="560" alt="스크린샷 2023-04-14 오후 2 33 57" src="https://user-images.githubusercontent.com/100370200/232050254-b408673c-ba1f-40c1-8492-897797525ceb.png">
 
 - 장소 선정 과정 중, 어려움을 겪었던 리서치 참여자가 81%로 나타남.
     
     → 각각의 참여자들이 사용하는 기존 방식이 장소 선정에 어려움을 주고 있으며, 새로운 서비스의 필요성을 뒷받침하는 근거로 사용될 수 있음. 
     
-<img width="560" alt="스크린샷 2023-04-14 오후 2 33 57" src="https://user-images.githubusercontent.com/100370200/232050254-b408673c-ba1f-40c1-8492-897797525ceb.png">
+
+<img width="668" alt="장소선정" src="https://user-images.githubusercontent.com/100370200/232179896-c3e4b85a-96da-4b34-8ac0-9a1126fe9e22.png">
 
 
 
@@ -67,10 +65,10 @@
 
         더욱이, 응답자의 58.5 %는 네이버 지도를 통해, 장소에 대한 정보를 얻고 있었지만, 해당 매체에 대해 73.8%   
 
-         의 사람들이 정보 검색에 대해 어려움을 겪고 있다고 응답함. 
+         의 사람들이 정보 검색에 대해 어려움을 겪고 있다고 응답함.
          
-         <img width="668" alt="스크린샷 2023-04-14 오후 2 34 07" src="https://user-images.githubusercontent.com/100370200/232050395-129fc490-f60c-4efe-9e83-23072ad52fc1.png">
-
+        
+<img width="673" alt="매체활용" src="https://user-images.githubusercontent.com/100370200/232179980-04b73dfe-a0e0-47de-a719-f2ea06997983.png">
 
 
 - 장소를 검색할 때 활용했던 기존의 매체를 활용했을 때, 45.3%의 사람들이 세분화된 필터를 통해 장소 검색의 기능을 원했으며, 31.3%의 사람들이 사용자의 취향을 반영한 장소 추천 서비스 기능을 선호한다고 응답함.
@@ -207,11 +205,12 @@
 
 ### **📑 비즈니스 모델 설계**
 
-![Frame 6.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fd75a6f4-68bb-4afa-b8d1-0db2aa828ff0/Frame_6.png)
+![Frame 6](https://user-images.githubusercontent.com/100370200/232179737-f7f52883-bb57-4c70-b497-ad66dab7032c.png)
+
 
 ### ****🎨 디자인 무드보드****
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/33b443c4-4b64-46d7-b4c9-60fb08fb4701/Untitled.png)
+![KakaoTalk_20230414_211444722](https://user-images.githubusercontent.com/100370200/232049915-bbb00d5c-ff3c-4f84-9d64-1f9bdec07ec6.png)
 
 ### 💻 기술스택
 
@@ -220,7 +219,8 @@
 > **Android Studio (kotlin)**
 > 
 
-![image_processing20200406-12954-1dvsqrx.gif](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/0e386c1f-34a7-4c1d-ad5a-3b67d1153006/image_processing20200406-12954-1dvsqrx.gif)
+![image_processing20200406-12954-2liqgw](https://user-images.githubusercontent.com/100370200/232179751-fa4bc891-7215-4f57-9aee-a3b655369935.gif)
+
 
 - **Retrofit2**
 REST API 통신을 위해 빠른 성능과 간단한 구현을 자랑하는 Retrofit을 사용했습니다.
@@ -361,7 +361,8 @@ REST API 통신을 위해 빠른 성능과 간단한 구현을 자랑하는 Retr
 
 **깃 브랜치 관리** 
 
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/2a8bc0b5-056c-4e70-8ee5-bcb2ea8b3249/Untitled.png)
+![gitbranch](https://user-images.githubusercontent.com/100370200/232179827-a2749a20-c3c5-438d-b90c-addd2f3bcdcc.png)
+
 
 
 ### 📑 소프트웨어 아키텍쳐
