@@ -318,5 +318,5 @@ To Reviewers
 ## ⚙️ Software Architecture
 
 ---
-<img width="1135" alt="스크린샷 2023-04-16 오후 5 54 13" src="https://user-images.githubusercontent.com/37439067/232288170-04480a02-a749-46c8-a936-5a24cf96ebfc.png">
+![image](https://user-images.githubusercontent.com/37439067/232289594-c53b9633-4495-44ec-86d6-d419ae70a77c.png)
 
