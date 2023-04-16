@@ -136,7 +136,8 @@
 > MOING은 다음과 같이 유사 서비스와 차별적인 포지셔닝을 점유하려고 합니다.
 > 
 
-<img width="484" alt="포지셔닝맵" src="https://user-images.githubusercontent.com/53565255/232009635-7c410ed1-960b-4774-80d2-543b3df3f01c.png">
+![포지셔닝맵](https://user-images.githubusercontent.com/53565255/232305418-8573dc8a-1fe4-4148-9bd2-e0d9a08522d9.png)
+
 
 <br>
 
@@ -213,7 +214,7 @@
 
 ## 🏛 서비스 구조도
 
-![기능명세](https://user-images.githubusercontent.com/53565255/232009928-6e63a62a-f420-4840-91d4-f0c9cc849424.png)
+![서비스구조도](https://user-images.githubusercontent.com/53565255/232305435-aba88762-cb30-4669-a11f-113473644dec.png)
 
 <br>
 
