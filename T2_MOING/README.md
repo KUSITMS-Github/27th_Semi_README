@@ -273,7 +273,7 @@
 
 ## 💪🏻 Android Studio - Java 언어를 선택한 이유
 
-1️⃣이식성: Java는 JVM(Java Virtual Machine)을 이용해 어떤 운영체제에서도 동작할 수 있으므로, 플랫폼에 종속되지 않습니다. 이식성이 뛰어나기 때문에 코드를 수정하지 않고도 여러 플랫폼에서 실행할 수 있어 개발 시간과 비용을 절약할 수 있습니다.
+1️⃣ 이식성: Java는 JVM(Java Virtual Machine)을 이용해 어떤 운영체제에서도 동작할 수 있으므로, 플랫폼에 종속되지 않습니다. 이식성이 뛰어나기 때문에 코드를 수정하지 않고도 여러 플랫폼에서 실행할 수 있어 개발 시간과 비용을 절약할 수 있습니다.
 
 2️⃣ 안드로이드 앱 개발에서 자바는 성능과 안정성 면에서 뛰어난 성능을 보입니다. 안드로이드 앱 개발에서 자바는 가비지 컬렉션 기능을 통해 메모리 관리를 보다 효율적으로 처리하며, 안드로이드 프레임워크와의 호환성도 뛰어납니다.
 
@@ -287,15 +287,15 @@
 ## 💪🏻 Server 스택 선정 이유
 
 <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat-square&logo=SpringDataJpat&logoColor=white"> <img src="https://img.shields.io/badge/QueryDsl-137CBD?style=flat-square&logo=QueryDsl&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
-<br>Spring Boot를 사용하면 애플리케이션 레벨에서의 인프라를 지원해 설정등을 최소화 함으로써 비즈니스 로직을 개발하는데 좀 더 집중할 수 있습니다. 또한 Spring은 POJO(Plain Old Java Object)를 기반으로 구성 되어 있어 순수 Java를 사용하여 만든 객체로 구성 가능하기 때문에 생산성에 유리하고, 코드에 대한 테스트 작업 또한 유연하게 할 수 있습니다. 
-<br>예상 가능하고 반복되는 쿼리들을 대신 작성해주는 Spring DataJPA와 컴파일 시점에 문법 오류를 확인할 수 있고 동적 쿼리 작성이 편한 Query DSL를 사용해 DB에 접근합니다. 
-Restful 같은 무상태 환경에서 사용자 데이터를 주고받을 수 있는 JWT를 이용해 유저를 인증하고 식별합니다.
+<br>1️⃣ Spring Boot를 사용하면 애플리케이션 레벨에서의 인프라를 지원해 설정등을 최소화 함으로써 비즈니스 로직을 개발하는데 좀 더 집중할 수 있습니다. 또한 Spring은 POJO(Plain Old Java Object)를 기반으로 구성 되어 있어 순수 Java를 사용하여 만든 객체로 구성 가능하기 때문에 생산성에 유리하고, 코드에 대한 테스트 작업 또한 유연하게 할 수 있습니다. 
+<br>2️⃣ 예상 가능하고 반복되는 쿼리들을 대신 작성해주는 Spring DataJPA와 컴파일 시점에 문법 오류를 확인할 수 있고 동적 쿼리 작성이 편한 Query DSL를 사용해 DB에 접근합니다. 
+<br>3️⃣ Restful 같은 무상태 환경에서 사용자 데이터를 주고받을 수 있는 JWT를 이용해 유저를 인증하고 식별합니다.
 
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/AmazonElastic-005571?style=flat-square&logo=elastic&logoColor=white">
-<br>AWS EC2로 인프라를 구축하고 Mysql 로 DB를 구성하여 AWS RDS 로 배포하고 AWS S3를 이용해 이미지를 관리합니다. 
-<br>Refresh Token을 저장하기위해 빠른 엑세스 속도로 로그인시 병목 현상을 방지할 수 있는 Redis를 사용합니다.
+<br>1️⃣ AWS EC2로 인프라를 구축하고 Mysql 로 DB를 구성하여 AWS RDS 로 배포하고 AWS S3를 이용해 이미지를 관리합니다. 
+<br>2️⃣ Refresh Token을 저장하기위해 빠른 엑세스 속도로 로그인시 병목 현상을 방지할 수 있는 Redis를 사용합니다.
 
- <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"><br> 개발 환경을 이미지화 시키고 해당 이미지를 통해 개발 및 배포환경을 쉽게 컨테이너화 시켜 구축할 수 있는 Docker, 무중단 배포를 위한 Nginx 등을 이용하여 CI/CD를 구축합니다.
+ <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"><br>1️⃣ 개발 환경을 이미지화 시키고 해당 이미지를 통해 개발 및 배포환경을 쉽게 컨테이너화 시켜 구축할 수 있는 Docker, 무중단 배포를 위한 Nginx 등을 이용하여 CI/CD를 구축합니다.
 
 ## 📎 네이밍 룰
 
