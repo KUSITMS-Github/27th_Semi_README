@@ -290,6 +290,19 @@ Spring Framework에는 개발자와 사용자로 구성된 크고 활발한 커�
 - optional
 
 <br />
+
+### 🌿 Git workflow
+1. `main` -> `develop` 브랜치 분기
+  - 기본적인 모든 작업은 `develop` 브랜치에서 이루어지며, 배포 시에 `main`에 merge
+2. `develop` -> `feat/{기능 이름}` 브랜치 분기하여 작업
+3. commit -> push -> Pull Request 작성
+  - PR에는 `1. 추가된 기능`, `2. 다른 팀원이 숙지해야 할 사항`, `3. FE의 경우 스크린샷`이 들어간다.
+4. PR 작성자가 code review 요청
+5. Review 가 끝나면 reviewer 가 `develop` 브랜치에 merge
+6. merge 된 작업이 있을 경우 pull
+  
+  
+<br />
   
 ### 🔍 소프트웨어 아키텍쳐
 
