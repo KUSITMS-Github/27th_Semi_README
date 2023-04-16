@@ -4,8 +4,15 @@
 
 ---
 
-![Untitled1](https://user-images.githubusercontent.com/100370200/232049729-6754fadc-bfe0-4b25-acd3-16c6b95fb019.png)
+<div align="center">
 
+![logo1](https://user-images.githubusercontent.com/100370200/232309676-ee4bc495-70b2-4a60-b176-0a9c5cd0ebf6.png)
+
+
+![logo2](https://user-images.githubusercontent.com/100370200/232309666-bbd2ae06-5d4e-43a6-a500-e03a78ef07c4.png)
+
+
+</div>
 
 ### **📑 서비스 소개**
 
@@ -191,7 +198,8 @@
 
 ### ****🎨 디자인 무드보드****
 
-![KakaoTalk_20230414_211444722](https://user-images.githubusercontent.com/100370200/232049915-bbb00d5c-ff3c-4f84-9d64-1f9bdec07ec6.png)
+![무드보드](https://user-images.githubusercontent.com/100370200/232309861-a0bcc5b3-7dad-4cc2-9d27-35b6c19e7684.png)
+
 
 ### 💻 기술스택
 
