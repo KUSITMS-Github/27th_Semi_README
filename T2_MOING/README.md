@@ -237,17 +237,22 @@
 <img src="https://img.shields.io/badge/QueryDsl-137CBD?style=flat-square&logo=QueryDsl&logoColor=white">
 <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white">
 <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
  
 
 💾 **Infra & DB :**
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
 <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white">
 <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white">
+<img src="https://img.shields.io/badge/AmazonElastic-005571?style=flat-square&logo=elastic&logoColor=white">
 
 
 🚀 **CI/CD :**
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
 <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white">
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white">
 
 <br>
 
@@ -275,18 +280,18 @@
 
 <br>
 
-## 💪🏻 Spring Boot 사용 이유
+## 💪🏻 Server 스택 선정 이유
 
-1️⃣ 설정보다 개발업무에 좀 더 집중할 수 있습니다. 스프링은 애플리케이션 레벨에서의 인프라를 지원해 설정등을 최소화 함으로써 비즈니스 로직을 개발하는데 좀 더 집중할 수 있습니다.
+<img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"> <img src="https://img.shields.io/badge/SpringDataJpa-6DB33F?style=flat-square&logo=SpringDataJpat&logoColor=white"> <img src="https://img.shields.io/badge/QueryDsl-137CBD?style=flat-square&logo=QueryDsl&logoColor=white"> <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=Gradle&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens">
+<br>Spring Boot를 사용하면 애플리케이션 레벨에서의 인프라를 지원해 설정등을 최소화 함으로써 비즈니스 로직을 개발하는데 좀 더 집중할 수 있습니다. 또한 Spring은 POJO(Plain Old Java Object)를 기반으로 구성 되어 있어 순수 Java를 사용하여 만든 객체로 구성 가능하기 때문에 생산성에 유리하고, 코드에 대한 테스트 작업 또한 유연하게 할 수 있습니다. 
+<br>예상 가능하고 반복되는 쿼리들을 대신 작성해주는 Spring DataJPA와 컴파일 시점에 문법 오류를 확인할 수 있고 동적 쿼리 작성이 편한 Query DSL를 사용해 DB에 접근합니다. 
+Restful 같은 무상태 환경에서 사용자 데이터를 주고받을 수 있는 JWT를 이용해 유저를 인증하고 식별합니다.
 
-2️⃣ Spring은 모듈화가 잘 되어있기 때문에 Spring에서 제공하는 모듈 중 필요한 프로젝트를 선택적으로 사용할 수 있습니다.
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white"> <img src="https://img.shields.io/badge/AmazonEC2-FF9900?style=flat-square&logo=AmazonEC2&logoColor=white"> <img src="https://img.shields.io/badge/AmazonRDS-527FFF?style=flat-square&logo=AmazonRDS&logoColor=white"> <img src="https://img.shields.io/badge/AmazonS3-569A31?style=flat-square&logo=AmazonS3&logoColor=white"> <img src="https://img.shields.io/badge/AmazonElastic-005571?style=flat-square&logo=elastic&logoColor=white">
+<br>AWS EC2로 인프라를 구축하고 Mysql 로 DB를 구성하여 AWS RDS 로 배포하고 AWS S3를 이용해 이미지를 관리합니다. 
+<br>Refresh Token을 저장하기위해 빠른 엑세스 속도로 로그인시 병목 현상을 방지할 수 있는 Redis를 사용합니다.
 
-3️⃣  Spring은 POJO(Plain Old Java Object)를 기반으로 구성되어있습니다. 별도의 API를 사용하지 않고 순수 Java를 사용하여 만든 객체로 구성 가능하기 때문에 생산성에 유리하고, 코드에 대한 테스트 작업 또한 유연하게 할 수 있습니다.
-
-4️⃣ 데이터베이스를 이용할 때 반드시 신경써야하는 부분은 하나의 업무가 여러 작업으로 이뤄지는 경우의 트랙잭션 처리입니다. Spring은 이러한 트랜잭션의 관리를 개발자가 매번 상황에 맞는 코드를 작성할 필요가 없도록 설계되어있습니다.
-
-
-<br>
+ <img src="https://img.shields.io/badge/GithubActions-2088FF?style=flat-square&logo=GithubActions&logoColor=white"> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/NGINX-009639?style=flat-square&logo=NGINX&logoColor=white"><br> 개발 환경을 이미지화 시키고 해당 이미지를 통해 개발 및 배포환경을 쉽게 컨테이너화 시켜 구축할 수 있는 Docker, 무중단 배포를 위한 Nginx 등을 이용하여 CI/CD를 구축합니다.
 
 ## 📎 네이밍 룰
 
@@ -306,11 +311,11 @@
 
 <br>
 
-## 🚀소프트웨어 아키텍쳐
+## 🚀 소프트웨어 아키텍쳐
 
 <img width="976" alt="아키텍쳐" src="https://user-images.githubusercontent.com/53565255/232010797-9d8edd3c-2b54-4447-bbb1-eb42e7d57821.png">
 
-## 🚀백엔드 CI/CD
+## 🚀 백엔드 CI/CD
 
 ![CI:CD](https://user-images.githubusercontent.com/53565255/232010835-bb6ab47f-e136-4c48-9a2a-cd9bd5950255.png)
 
