@@ -302,11 +302,12 @@
 >
 ## 📎 네이밍 룰
 
-- 파일 : lowerCamelCase (ex.controller)
-- 클래스명 : UpperCamelCase (ex.SendMessage)
-- 함수/변수명 : lowerCamelCase (ex.userCount)
+☑️ 파일 : lowerCamelCase (ex.controller) <br>
+☑️ 클래스명 : UpperCamelCase (ex.SendMessage)<br>
+☑️ 함수/변수명 : lowerCamelCase (ex.userCount) <br> 
 
-## 📄 커밋 컨벤션
+
+## 📄 커밋 컨벤션 및 깃 플로우
 
 | 이름 | 설명 |
 | --- | --- |
@@ -318,6 +319,8 @@
 
 <br>
 
+![깃 플로우](https://user-images.githubusercontent.com/53565255/232306917-76f0b6d7-eeb3-413d-b899-f307c7eab765.png)
+<br> 
 ## 🚀 시스템 아키텍쳐
 <img width="937" alt="image" src="https://user-images.githubusercontent.com/86006389/232286749-662f02fa-4f18-4483-b5ee-5c0b295d79dc.png">
 
