@@ -12,7 +12,7 @@
 **동반 성장**으로 향하는 **열정을 피워낼 수 있도록,**
 **단체의 성과 및 체계 관리를 돕는 모바일 서비스**입니다.
 > 
-![팀소개1](https://user-images.githubusercontent.com/86006389/232302255-43ac0f71-f738-4d5c-825f-c587527cd297.png)
+![IMG_1401](https://user-images.githubusercontent.com/53565255/232305628-c05f65bd-449b-4437-b37d-e530a4affb92.png)
 ![팀소개2](https://user-images.githubusercontent.com/86006389/232302296-93ff963b-6e4a-42fa-9f93-362c50400191.png)
 ![color_팀소개3](https://user-images.githubusercontent.com/86006389/232302341-98ee4650-fffd-4688-89fc-01d3efed16e4.png)
 
