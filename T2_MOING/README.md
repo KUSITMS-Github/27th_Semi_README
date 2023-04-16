@@ -311,11 +311,8 @@ Restful 같은 무상태 환경에서 사용자 데이터를 주고받을 수 �
 
 <br>
 
-## 🚀 소프트웨어 아키텍쳐
+## 🚀 시스템 아키텍쳐
+<img width="937" alt="image" src="https://user-images.githubusercontent.com/86006389/232286749-662f02fa-4f18-4483-b5ee-5c0b295d79dc.png">
 
-<img width="976" alt="아키텍쳐" src="https://user-images.githubusercontent.com/53565255/232010797-9d8edd3c-2b54-4447-bbb1-eb42e7d57821.png">
 
-## 🚀 백엔드 CI/CD
-
-![CI:CD](https://user-images.githubusercontent.com/53565255/232010835-bb6ab47f-e136-4c48-9a2a-cd9bd5950255.png)
 
