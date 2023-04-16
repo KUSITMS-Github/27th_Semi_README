@@ -260,7 +260,7 @@ AOP(Aspect-Oriented Programming)을 사용하면 개발자는 애플리케이션
 Spring Framework에는 개발자와 사용자로 구성된 크고 활발한 커뮤니티가 있습니다. 이 커뮤니티가 개발자로 하여금 프레임워크를 최대한 활용할 수 있도록 지원, 리소스 및 도구를 제공해 주기 때문에 Spring Boot 를 선택했습니다.
 
 ### 🏷 네이밍룰
-- 클래스명/컴포넌트명 : PascalCase
+- 클래스명(BE)/컴포넌트명(FE) : PascalCase
 - 함수명/변수명 : CamelCase
 - 상수명 : UpperCase + SnakeCase
 - CSS 방법론 : BEM 모델
