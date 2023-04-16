@@ -247,7 +247,15 @@
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F5b0164f1-5f6c-440b-9b12-4e94373bdf9e%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2023-04-16_%25EC%2598%25A4%25ED%259B%2584_6.52.31.png?table=block&id=381ee16a-8df2-409a-8d17-e09dd2b32d40&spaceId=5c2c1580-7023-4cc0-8c82-692664bd1cc6&width=2000&userId=8426fed2-b67a-40a9-9ea9-4cb19353ac78&cache=v2)
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2Fc3bda308-b719-4ce4-b1a4-7afc92e23957%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2023-04-16_%25EC%2598%25A4%25ED%259B%2584_6.52.51.png?table=block&id=7adb6941-ded7-431e-b71c-2408988f7d4c&spaceId=5c2c1580-7023-4cc0-8c82-692664bd1cc6&width=2000&userId=8426fed2-b67a-40a9-9ea9-4cb19353ac78&cache=v2)
 ![](https://www.notion.so/image/https%3A%2F%2Fs3-us-west-2.amazonaws.com%2Fsecure.notion-static.com%2F1a1e87de-cc70-4844-8874-f2908a2819d6%2F%25EC%258A%25A4%25ED%2581%25AC%25EB%25A6%25B0%25EC%2583%25B7_2023-04-16_%25EC%2598%25A4%25ED%259B%2584_6.53.01.png?table=block&id=ec25db6c-cca2-4aba-b316-1fa8b81c4b3a&spaceId=5c2c1580-7023-4cc0-8c82-692664bd1cc6&width=2000&userId=8426fed2-b67a-40a9-9ea9-4cb19353ac78&cache=v2)
-[라이키 기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1U4JhMEgF_K88ZFZkOlVeVxR0bbe0n6htIW4KCsS82Xs/edit#gid=0)
+[라이킷 기능명세서 자세히 보기](https://docs.google.com/spreadsheets/d/1U4JhMEgF_K88ZFZkOlVeVxR0bbe0n6htIW4KCsS82Xs/edit#gid=0)
+
+### 📎 시스템 비기능 요구사항
+
+### 보안요구사항
+![보안요구사항](https://www.notion.so/image/https%3A%2F%2Fuser-images.githubusercontent.com%2F84445210%2F195561160-0876fc5d-f063-4ec7-a349-fd2fda750bfe.png?id=95ed80f2-fc48-4beb-8355-3b1577ee197e&table=block&spaceId=5c2c1580-7023-4cc0-8c82-692664bd1cc6&width=2000&userId=8426fed2-b67a-40a9-9ea9-4cb19353ac78&cache=v2)
+
+### 소프트웨어품질 요구사항
+![소프트웨어품질 요구사항](https://www.notion.so/image/https%3A%2F%2Fuser-images.githubusercontent.com%2F84445210%2F195561332-a82d6936-b9f2-4792-8735-8b5e0a6e3739.png?id=cba315f4-0ddc-48d7-a209-56f7df6f30dc&table=block&spaceId=5c2c1580-7023-4cc0-8c82-692664bd1cc6&width=2000&userId=8426fed2-b67a-40a9-9ea9-4cb19353ac78&cache=v2)
 
 ### 📑 그라운드룰, 커밋 컨벤션
 
