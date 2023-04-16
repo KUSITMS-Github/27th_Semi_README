@@ -24,7 +24,7 @@
 
 ### 🌟목적 및 필요성
 
-<img width="836" alt="스크린샷 2023-04-14 오후 5 26 30" src="https://user-images.githubusercontent.com/113091000/231988593-47db7e3a-1e62-42e1-90cb-ab0cf3fe51e2.png">
+<img width="918" alt="스크린샷 2023-04-16 오후 2 25 34" src="https://user-images.githubusercontent.com/113091000/232273020-58c80651-df38-455c-9eeb-a74143206176.png">
 
 <img width="912" alt="스크린샷 2023-04-16 오후 2 28 02" src="https://user-images.githubusercontent.com/113091000/232272973-1ee0f379-ff18-4f6b-b269-3c7a1024a489.png">
 
