@@ -93,9 +93,9 @@
 ### 💻 기술 스택
 
 ---
-**Front-End** : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/> <img alt="Vite" src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Axios-8b00ff?style=flat-square&logo=Axios&logoColor=black"/>
+**Front-End** : <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black"/><img alt="Vite" src = "https://img.shields.io/badge/vite-%23646CFF.svg?style=flat-square&logo=vite&logoColor=white"/><img src="https://img.shields.io/badge/Axios-8b00ff?style=flat-square&logo=Axios&logoColor=black"/>
 
-**Back-End** : <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/> <img alt="npm" src ="https://img.shields.io/badge/prisma-2D3748.svg?&style=flat-square&logo=prisma&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-0067a3?style=flat-square&logo=Docker&logoColor=white"/>
+**Back-End** : <img alt="Node.js" src ="https://img.shields.io/badge/Node.js-339933.svg?&style=flat-square&logo=Node.js&logoColor=white"/> <img alt="Express" src ="https://img.shields.io/badge/Express-000000.svg?&style=flat-square&logo=Express&logoColor=white"/><img alt="npm" src ="https://img.shields.io/badge/prisma-2D3748.svg?&style=flat-square&logo=prisma&logoColor=white"/><img src="https://img.shields.io/badge/Docker-0067a3?style=flat-square&logo=Docker&logoColor=white"/><img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=Redis&logoColor=white">
 
 
 ### 👀 기술 스택 선정 이유
@@ -318,4 +318,5 @@ To Reviewers
 ## ⚙️ Software Architecture
 
 ---
-![Architecture](https://user-images.githubusercontent.com/37439067/231813229-3c364744-3da4-46eb-8bfb-9f584adae10e.JPG)
+<img width="1135" alt="스크린샷 2023-04-16 오후 5 54 13" src="https://user-images.githubusercontent.com/37439067/232288170-04480a02-a749-46c8-a936-5a24cf96ebfc.png">
+
