@@ -315,7 +315,7 @@ To Reviewers
 | feature\_/#  | 이슈 별 기능 구현 브랜치 |
 |   fix\_/#    |  이슈 별 픽스 브랜치   |
 
-## API Documentation
+## 📃 API Documentation
 
 [API명세서](https://documenter.getpostman.com/view/23289358/2s93eSZvMC)
 
